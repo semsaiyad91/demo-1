@@ -1,2 +1,2 @@
 # demo-1
-This is a demo git class
+This is a demo git class.
